@@ -4,6 +4,7 @@ public class Arac {
 	
 	private double hiz;
 	private double yol;
+	private double mesafe;
 	
 	public Arac () {
 		
